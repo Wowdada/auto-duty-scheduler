@@ -1,0 +1,6 @@
+streamlit
+pandas
+ortools
+holidayskr
+holidays
+openpyxl
